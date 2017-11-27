@@ -1,0 +1,6 @@
+[package]
+name = "asteroid"
+version = "0.1.0"
+authors = ["John Downs <john.downs@ordergroove.com>"]
+
+[dependencies]
